@@ -1,0 +1,14 @@
+target/
+test-output/
+.idea/
+*.log
+*.jar
+*.html
+*.iml
+*.DS_Store
+*.txt
+.classpath
+.project
+.settings/
+.vscode/
+drivers/
